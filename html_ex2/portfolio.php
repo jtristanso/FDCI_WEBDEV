@@ -30,7 +30,9 @@
         <div>
             <h1>PORTFOLIO</h1>
         </div>
-        <div></div>
+        <div>
+            <h1>SKILLS</h1>
+        </div>
         <div></div>
         <div></div>
     </div>
