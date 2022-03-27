@@ -1,0 +1,70 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    background-color: red;
+    z-index: 999;
+}
+
+#navbar .nav-item a {
+    color: black !important;
+}
+
+#banner{
+    width: 100%;
+    height: 400px;
+    background-color: blue;
+}
+
+#store{
+    height: 425px;
+    background-color: gray;
+}
+
+#store .store-item{
+    background-color: black;
+    height: 190px;
+    width: 190px;
+    float: left;
+    margin: 10px;
+    border-radius: 106.5px;
+    background-image: none;
+    
+}
+
+#store .store-item:hover{
+    background-color: pink;
+    background-image: url("image.png");
+}
+
+#store .store-item:active{
+    background-color: green;
+    background-image: none;
+}
+
+#contact {
+    background-color: orange;
+    height: 300px;
+}
+
+#contact .contact-item {
+    position: relative;
+    width: 46%;
+    height: 280px;
+    background-color: black;
+    float: right;
+    margin: 10px;
+}
+
+.container {
+    border: 1px solid black;
+    width: 700px;
+    margin: auto;
+}
