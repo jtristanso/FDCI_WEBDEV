@@ -25,9 +25,11 @@
            <h1>JASON TRISTAN K. SO</h1> 
         </div>
         <div id="experience-section">
-            EXPERIENCE
+            <h1>EXPERIENCE</h1>
         </div>
-        <div></div>
+        <div>
+            <h1>PORTFOLIO</h1>
+        </div>
         <div></div>
         <div></div>
         <div></div>
