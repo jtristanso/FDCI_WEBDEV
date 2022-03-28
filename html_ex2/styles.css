@@ -1,10 +1,8 @@
 body
 {
-    background-image: url('bgpic.jpg');
+    background-image: url('jsocoverphoto.jpg');
     margin-top: 50px;
     height: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 /* IDs */
@@ -48,9 +46,9 @@ body
     margin-top: 0px;
     line-height: 600px;
 }
-#experience-section
+#about-section
 {
-
+    color: white;
 }
 
 /* CLASSES */
