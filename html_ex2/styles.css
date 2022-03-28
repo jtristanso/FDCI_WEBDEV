@@ -1,6 +1,6 @@
 body
 {
-    background-image: url('jsocoverphoto.jpg');
+    background-color: grey;
     margin-top: 50px;
     height: 100%;
 }
@@ -46,9 +46,23 @@ body
     margin-top: 0px;
     line-height: 600px;
 }
-#about-section
+#divCentering1
 {
-    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#divCentering2
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#divCentering3
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* CLASSES */
@@ -66,4 +80,24 @@ body
 .navbar-item a
 {
     color: white;
+}
+.content-section
+{
+    color: white;
+    margin-top: 0px;
+    height: 600px;
+}
+.content-section h1
+{
+    text-align: center;
+}
+.content-section p
+{
+    text-align: left;
+}
+.para
+{
+    margin: 20px;
+    padding: 20px;
+    
 }
